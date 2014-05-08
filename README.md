@@ -1,4 +1,4 @@
 IsBrettNeumeierWrong
 ====================
 
-Yes, he is.
+No, he is not.
